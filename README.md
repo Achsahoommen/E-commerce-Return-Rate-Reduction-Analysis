@@ -33,18 +33,18 @@ Ecommerce_Return_Analysis/
 │ └── data import.py # Imports data, trains ML model, exports predictions
 │
 ├── data/
-│ ├── data.sql # SQL table creation and aggregation
-│ ├── online_dataset.csv # Original raw dataset
-│ ├── cleaned_data.csv # After initial cleaning
-│ ├── cleanest_data.csv # After feature engineering
-│ └── high_risk_products.csv # Model output (products with return risk > 60%)
+│ ├── data.sql 
+│ ├── online_dataset.csv 
+│ ├── cleaned_data.csv 
+│ ├── cleanest_data.csv 
+│ └── high_risk_products.csv 
 │
 ├── dashboard/
-│ └── main.pbix # Power BI report with drill-through visuals
+│ └── main.pbix 
 │
 ├── report/
-│ ├── Ecommerce_Return_Analysis_Report.docx # Final project report
-│ └── project final..pdf # Dashboard visual screenshots
+│ ├── Ecommerce_Return_Analysis_Report.docx 
+│ └── project final..pdf 
 
 
 ## 📊 Key Metrics
