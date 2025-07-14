@@ -1,10 +1,10 @@
-# 📦 E-commerce Return Rate Reduction Analysis
+#  E-commerce Return Rate Reduction Analysis
 
 This project analyzes product return patterns in an e-commerce dataset using Python, SQL, and Power BI. It focuses on identifying why customers return products and how return rates vary by category, geography, and marketing channels. A predictive model is developed to estimate return risk and an interactive dashboard is created for business insights.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 - Understand key drivers of product returns
 - Analyze return behavior across categories and countries
@@ -13,7 +13,7 @@ This project analyzes product return patterns in an e-commerce dataset using Pyt
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - **Python**: Data cleaning, transformation, and model building  
 - **SQL (MySQL)**: Data aggregation and filtering  
@@ -24,7 +24,7 @@ This project analyzes product return patterns in an e-commerce dataset using Pyt
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 Ecommerce_Return_Analysis/
 │
@@ -47,7 +47,7 @@ Ecommerce_Return_Analysis/
 │ └── project final..pdf 
 
 
-## 📊 Key Metrics
+## 📊Key Metrics
 
 | Metric               | Value      |
 |----------------------|------------|
@@ -58,7 +58,7 @@ Ecommerce_Return_Analysis/
 
 ---
 
-## 🧠 Machine Learning Model
+## Machine Learning Model
 
 - **Model**: Logistic Regression
 - **Target Variable**: `return_flag` (1 = return, 0 = no return)
@@ -68,7 +68,7 @@ Ecommerce_Return_Analysis/
 
 ---
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 
 Includes:
 
@@ -80,6 +80,6 @@ Includes:
 
 ---
 
-## 📤 Output
+## Output
 
 > **`high_risk_products.csv`** contains products with return probability > 60%, allowing business teams to take corrective action (e.g., improving descriptions, packaging, or supplier checks).
